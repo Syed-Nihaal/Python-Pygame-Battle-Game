@@ -1,3 +1,6 @@
 # Python-Pygame-Battle-Game
-Hi,
-  I am Syed Nihaal, a student in Grade 12 in CBSE Curriculum studying Computer Science
+A PVP battle game made in Python using the Pygame module
+
+# Requirements
+Python version - 3.8+
+Pygame Module
